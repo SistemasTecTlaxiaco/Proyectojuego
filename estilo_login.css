@@ -1,5 +1,5 @@
 
-body {font-family: Arial, Helvetica, sans-serif; background-image: url("img/fondo.png");  }
+body {font-family: Arial, Helvetica, sans-serif; background-image: url("imagenes app/fondo.png");  }
 
 /* Full-width input fields */
 input[type=text], input[type=password] {
@@ -47,6 +47,7 @@ img.avatar {
 
 .container {
     padding: 16px;
+    /*background="imagenes app/registro.jpg";*/
 
 }
 
