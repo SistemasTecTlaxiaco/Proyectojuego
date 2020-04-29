@@ -1,14 +1,14 @@
 
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="stylesheet" type="text/css" href="estilo_login.css"/>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <LINK REL="stylesheet" TYPE="text/css" HREF="estilo_login.css">
 </head>
+ 
 <body>
-
-
+ 
 <div class="container">
 
  
@@ -35,13 +35,12 @@
                 
                 <div class="modal-footer">
                   <a href="#" class="boton azul">Aceptar</a>
-                  <a href="inicio.html" class="boton rojo">Cancelar</a>
+                  <a href="#" class="boton rojo">Cancelar</a>
                 </div>
             </div>
           </div>
         </div>
       </div>
 </div>
-
 </body>
 </html>
