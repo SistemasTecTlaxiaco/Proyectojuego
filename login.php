@@ -24,7 +24,7 @@
                  <br></br>
                  <br></br>
                   
-                <label for="user" class="label">nombre</label>
+                <label for="user" class="label">Nombre</label>
                 <input id="user" type="text" class="input">
               </div>
               <div class="group">
