@@ -1,6 +1,7 @@
 <?php
 
 require 'conexion.php';
+include ('logica/conexion.php'):
 
 $nombre = $_POST['nombre'];
 $Ap = $_POST['Ap'];
