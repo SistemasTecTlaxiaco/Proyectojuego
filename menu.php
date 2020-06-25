@@ -40,7 +40,7 @@ if(!isset($usuario)){
         </tr>
         <tr>
             <td data-label="uno" width="100" height="100">
-                <img src="Imagenes/letras.jpg" width="300" height="150">
+                <img src="Imagenes/letras.jpeg" width="300" height="150">
                 <div align="center"> <a href="#" class="boton azul   ">PLAY</a></div>
             </td>
             <td data-label="dos" width="100" height="100"> </td>
