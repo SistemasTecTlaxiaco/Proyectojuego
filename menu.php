@@ -50,7 +50,7 @@ if(!isset($usuario)){
             </td>
             <td data-label="cuatro" width="100" height="100"> </td>
             <td data-label="cinco" width="100" height="100">
-                <a href="#" class="boton rojo">SALIR</a> </td>
+               
         </tr>
     </table>
 </body>
