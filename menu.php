@@ -6,7 +6,7 @@ $usuario = $_SESSION['username'];
 if(!isset($usuario)){
     header("location: login.php");
 }else{
-    echo "<a href='logica/salir.php' class="boton rojo">Salir</a>";
+    echo "<a href='logica/salir.php' class='boton rojo'>Salir</a>";
 
 }
 
