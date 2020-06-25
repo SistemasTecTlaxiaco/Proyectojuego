@@ -8,9 +8,9 @@ $clave = $_POST['clave'];
 
 
 $query = "SELECT COUNT(*) AS contar FROM alumnos WHERE Nombre_alumno='$usuario' and 	Ap_paterno='$clave'";
-$consulta = mysqli_query($conexion, $query);
+$consulta = pg_query($conexion, $query);
 
-$array = mysqli_fetch_array($consulta);
+$array = pg_fetch_array($consulta);
 
 if($array['contar']>0){
     $_SESSION['username']=$usuario;
