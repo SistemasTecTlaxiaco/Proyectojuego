@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <LINK REL="stylesheet" TYPE="text/css" HREF="estilo_registro.css">
+  <LINK REL="stylesheet" TYPE="text/css" HREF="css/estilo_registro.css">
 </head>
 <script>
 function validar(){
-  
+
   if(!(/^[a-zA-ZàáâäãåacceèéêëeiìíîïlnòóôöõøùúûüuuÿýzzñçcšžÀÁÂÄÃÅACCEEÈÉÊËÌÍÎÏILNÒÓÔÖÕØÙÚÛÜUUŸÝZZÑßÇŒÆCŠŽ?ð ,.'-]{2,48}$/i.test(document.getElementById("user").value)))
   {
       alert('Nombre Incorrecto');
@@ -37,11 +37,11 @@ function validar(){
       return false;
   }}}}}
 </script>
- 
+
 <body>
- 
+
 <div class="container">
- 
+
     <div class="login-wrap">
         <div class="login-html">
           <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab"></label>
@@ -50,9 +50,9 @@ function validar(){
             <div class="sign-in-htm">
             <form action="logica/registrar.php" onsubmit="validar();" method="POST">
               <div class="group">
-                  
-                 <br></br> 
-                 <br></br> 
+
+                 <br></br>
+                 <br></br>
                 <label for="user" class="label">nombre</label>
                 <input id="user" name="nombre" type="text" class="input" required>
               </div>
@@ -77,8 +77,8 @@ function validar(){
           </div>
         </div>
       </div>
- 
- 
+
+
 </div>
 </body>
 </html>

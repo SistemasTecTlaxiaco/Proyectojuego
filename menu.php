@@ -18,7 +18,7 @@ if(!isset($usuario)){
     <title>Menu</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <LINK REL="stylesheet" TYPE="text/css" HREF="estilo_menu.css">
+    <LINK REL="stylesheet" TYPE="text/css" HREF="css/estilo_menu.css">
 </head>
 
 <body>
@@ -50,7 +50,7 @@ if(!isset($usuario)){
             </td>
             <td data-label="cuatro" width="100" height="100"> </td>
             <td data-label="cinco" width="100" height="100">
-               
+
         </tr>
     </table>
 </body>
