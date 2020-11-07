@@ -29,23 +29,23 @@ if(!isset($usuario)){
         <tr>
             <td data-label="uno" width="100" height="100"> </td>
             <td data-label="dos" width="100" height="100">
-                <img src="Imagenes/voocales.png" width="300" height="150">
+                <img src="css/Imagenes/voocales.png" width="300" height="150">
                 <div align="center"><a href="#" class="boton amarillo">PLAY</a> </div>
             </td>
             <td data-label="tres" width="100" height="100"> </td>
-            <td data-label="cuatro" width="100" height="100"> <img src="Imagenes/numeros.jpg" width="300" height="150">
+            <td data-label="cuatro" width="100" height="100"> <img src="css/Imagenes/numeros.jpg" width="300" height="150">
                 <div align="center"> <a href="#" class="boton verde">PLAY</a> </div>
             </td>
             <td data-label="cinco" width="100" height="100"> </td>
         </tr>
         <tr>
             <td data-label="uno" width="100" height="100">
-                <img src="Imagenes/letras.jpeg" width="300" height="150">
+                <img src="css/Imagenes/letras.jpeg" width="300" height="150">
                 <div align="center"> <a href="#" class="boton azul   ">PLAY</a></div>
             </td>
             <td data-label="dos" width="100" height="100"> </td>
             <td data-label="tres" width="100" height="100">
-                <img src="Imagenes/figuras.jpg" width="300" height="150">
+                <img src="css/Imagenes/figuras.jpg" width="300" height="150">
                 <div align="center"> <a href="#" class="boton violeta">PLAY</a></div>
             </td>
             <td data-label="cuatro" width="100" height="100"> </td>
