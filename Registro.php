@@ -5,13 +5,13 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <LINK REL="stylesheet" TYPE="text/css" HREF="estilo_registro.css">
+  <LINK REL="stylesheet" TYPE="text/css" HREF="css/estilo_registro.css">
 </head>
 <body>
- 
+
 <div class="container">
 
- 
+
     <div class="login-wrap">
         <div class="login-html">
           <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab"></label>
@@ -21,9 +21,9 @@
 
             <form action="logica/registrar.php" onsubmit=" validar();" method="POST">
               <div class="group">
-                  
-                 <br></br> 
-                 <br></br> 
+
+                 <br></br>
+                 <br></br>
                 <label for="user" class="label">nombre</label>
                 <input id="user" name="Nombre_alumno" type="text" class="input" required pattern="[A-Za-z]{2,15}">
               </div>
@@ -48,9 +48,9 @@
           </div>
         </div>
       </div>
- 
 
- 
+
+
 </div>
 </body>
 </html>
