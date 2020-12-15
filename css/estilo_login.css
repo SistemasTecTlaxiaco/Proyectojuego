@@ -1,0 +1,176 @@
+body{
+	width:100%;
+	margin:auto;
+	max-width:705px;
+	min-height:600px;
+	background:url(Imagenes/niños.jpg) no-repeat center;
+	box-shadow:0 0px 0px 0 rgba(0,0,0,.24),0 0px 0px 0 rgba(0,0,0,.19);
+}
+*,:after,:before{box-sizing:border-box}
+.clearfix:after,.clearfix:before{content:'';display:table}
+.clearfix:after{clear:both;display:block}
+a{color:inherit;text-decoration:none}
+
+.login-wrap{
+	width:100%;
+	margin:auto;
+	max-width:405px;
+	min-height:600px;
+	position:relative;
+	box-shadow:0 0px 0px 0 rgba(0,0,0,.24),0 0px 0px 0 rgba(0,0,0,.19);
+}
+.login-html{
+	width:100%;
+	height:100%;
+	position:absolute;
+	padding:100px 90px 70px 90px;
+	}
+.login-html .tab,
+.login-form .group .label,
+.login-form .group .button{
+	text-transform:uppercase;
+}
+
+.login-form .group{
+	margin-bottom:10px;
+}
+.login-form .group .label,
+.login-form .group .input,
+.login-form .group .button{
+	width:100%;
+	color:#fff;
+	display:block;
+}
+.login-form .group .input,
+.login-form .group .button{
+	border:none;
+	padding:8px 10px;
+	border-radius:10px;
+	background:rgba(21, 38, 192, 0.1);
+}
+.login-form .group .button1{
+	border:none;
+	padding:15px 20px;
+	border-radius:25px;
+	background:rgba(21, 38, 192, 0.1);
+}
+.login-form .group .button2{
+	border:none;
+	padding:15px 20px;
+	border-radius:25px;
+	background:rgba(21, 38, 192, 0.1);
+}
+.login-form .group input[data-type="password"]{
+	text-security:circle;
+	-webkit-text-security:circle;
+}
+.login-form .group .label{
+	color:#333;
+	font-size:12px;
+}
+
+.login-html .sign-in:checked + .tab + .sign-up + .tab + .login-form .sign-in-htm{
+	transform:rotate(0);
+}
+.login-html .sign-up:checked + .tab + .login-form .sign-up-htm{
+	transform:rotate(0);
+}
+
+.boton{
+    text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+          text-align:center;
+          text-decoration: none;
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    display:inline-block;
+          color: #FFF;
+          background: #7F8C8D;
+          padding: 7px 20px;
+          white-space: nowrap;
+          -webkit-border-radius: 5px;
+          -moz-border-radius: 5px;
+          border-radius: 100px;
+          margin: 10px 5px;
+          -webkit-transition: all 0.2s ease-in-out;
+          -ms-transition: all 0.2s ease-in-out;
+          -moz-transition: all 0.2s ease-in-out;
+          -o-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+}
+
+.azul{
+background: #3498DB;
+box-shadow: 0px 3px 0px 0px #2980B9;
+}
+
+.azul:hover{
+background: #39a0e5;
+}
+
+.azul:active{
+box-shadow: 0px 0px 0px 0px #2980B9;
+}
+.rojo{
+background: #E74C3C;
+box-shadow: 0px 5px 0px 0px #C0392B;
+}
+
+.rojo:hover{
+background: #ff5242;
+}
+
+.rojo:active{
+box-shadow: 0px 2px 0px 0px #C0392B;
+}  
+  /* pantalla maximo 980px */
+  @media screen and (max-width:980px) {
+	.container {
+	  width:98%;
+	}
+	section {
+	  width:68%;
+	}
+  }  
+  /* pantalla maximo 700px */
+  @media screen and (max-width:700px) {
+	aside,section {
+	  float:none;
+	  width:96%;
+	  font-size:1.2em;
+	}
+	nav, section {
+	  font-size:1.2em;
+	}
+	aside {
+	  margin-top:5px;
+	  background:#333;
+	  color: #fff;
+	}
+	nav ul {
+	  float:none;
+	  clear:both;
+	}
+  }
+  /* pantalla maximo 480px */
+  @media screen and (max-width:480px) {
+	aside {
+	  display:block;
+	  background:#333;
+	  color: #fff;
+	  font-size:1.5em;
+	}
+	nav, section {
+	  font-size:1.5em;
+	}
+	section {
+	  width:94%;
+	}
+	nav ul {
+	  display: table;
+	  text-align: center;
+	  float: none;
+	  width:100%;
+	}
+	nav ul li {
+	  float:none;
+	}
+  }
