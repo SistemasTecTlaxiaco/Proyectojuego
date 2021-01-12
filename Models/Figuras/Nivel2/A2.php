@@ -11,8 +11,13 @@
 </head>
 <body>
     <center>
-<img src="../Imagenes/Nivel2/dos1.png" width="80%" height="85%" />
+<img src="../Imagenes/Nivel2/C.png" width="22%" height="25%" />
+<img src="../Imagenes/Nivel2/CU.png" width="20%" height="25%" />
+<img src="../Imagenes/Nivel2/T.png" width="20%" height="25%" />
+
+<img src="../Imagenes/Nivel2/PLA.png" width="80%" height="25%" />
 </center>
+
 <a href="Seleccion.php" style=" background: url(../Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 125%; 
 height: 90px;  /* Alto del botón */

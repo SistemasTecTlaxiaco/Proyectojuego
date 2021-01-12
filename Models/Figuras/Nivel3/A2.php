@@ -11,9 +11,13 @@
 </head>
 <body>
     <center>
-<img src="../Imagenes/Nivel3/figura.png" width="80%" height="80%" />
+<img src="../Imagenes/Nivel3/1.png" width="22%" height="20%" />
+<img src="../Imagenes/Nivel3/2.png" width="20%" height="20%" />
+<img src="../Imagenes/Nivel3/3.png" width="20%" height="20%" />
 <br>
-<img src="../Imagenes/Nivel3/niño.png" width="150px" height="150px"/>
+<img src="../Imagenes/Nivel3/niño.png" width="150px" height="150px"/><BR>
+<audio src="audio.mp3" preload="none" controls></audio>
+<BR>
 <a href="Seleccion.php" style=" background: url(../Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 125%; 
 height: 90px;  /* Alto del botón */

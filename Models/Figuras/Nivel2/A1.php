@@ -9,13 +9,16 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimum-scale=1.0">
   
 </head>
-<body>
-<section1><center>
+<body><center>
 <video src="Agrega video..." width=80%  height=300 controls poster="../Imagenes/Nivel2/Uno1.png">
 </video>
+<br>
+<br>
 
-<img src="../Imagenes/Nivel2/Uno2.png" width="60%" height="60%" /> </center>
-</section1>
+
+<img src="../Imagenes/Nivel2/cua.png" width="80%" height="80%" />
+<img src="../Imagenes/Nivel2/tri.png" width="80%" height="80%" /> 
+<img src="../Imagenes/Nivel2/cir.png" width="80%" height="80%" />  </center>
 
 <a href="Seleccion.php" style=" background: url(../Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 125%; 

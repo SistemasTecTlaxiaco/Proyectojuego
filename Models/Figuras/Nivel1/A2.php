@@ -10,10 +10,20 @@
   
 </head>
 <body><center>
-<a href="#" style=" background: url(../Imagenes/Nivel1/escuchar.PNG) /* Url de la imagen */ no-repeat center center 
-/* Color del botón */; background-size: 125%; 
-height: 320px;  /* Alto del botón */ 
- width: 850px;  /* Ancho del botón */"class="boton"></a> </center>
+<a href="#" style=" background: url(../Imagenes/Nivel1/cuadrado.PNG) /* Url de la imagen */ no-repeat center center 
+/* Color del botón */; background-size: 98%; 
+height: 250px;  /* Alto del botón */ 
+ width: 250px;  /* Ancho del botón */"class="boton"></a>
+<a href="#" style=" background: url(../Imagenes/Nivel1/circulo.PNG) /* Url de la imagen */ no-repeat center center 
+/* Color del botón */; background-size: 98%; 
+height: 250px;  /* Alto del botón */ 
+ width: 250px;  /* Ancho del botón */"class="boton"></a>
+ <a href="#" style=" background: url(../Imagenes/Nivel1/triangulo.PNG) /* Url de la imagen */ no-repeat center center 
+/* Color del botón */; background-size: 98%; 
+height: 250px;  /* Alto del botón */ 
+ width: 250px;  /* Ancho del botón */"class="boton"></a>
+<br>
+</a> </center>
  
  <a href="Ejercicio1.php" style=" background: url(../Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 125%; 

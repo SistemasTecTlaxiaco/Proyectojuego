@@ -11,12 +11,18 @@
 </head>
 <body>
     <center>
-    <img src="../Imagenes/Nivel3/secuencia0.png" width=80% height=40%/> 
+    <img src="../Imagenes/Nivel3/c.png" width=8% height=10%/> 
+    <img src="../Imagenes/Nivel3/t.png" width=8% height=10%/> 
     <br>
     <img src="../Imagenes/Nivel3/secuencia1.png" width=80% height=40%/>    
     <br>
-    <img src="../Imagenes/Nivel3/secuencia2.png" width=80% height=40%/>
+    <img src="../Imagenes/Nivel3/secuencia1.png" width=80% height=40%/>
 </center>
+<a href="A1.1.php" style=" background: url(../Imagenes/Menu/flecha.png) /* Url de la imagen */ no-repeat center center 
+/* Color del botón */; background-size: 125%; 
+height: 85px;  /* Alto del botón */
+  width: 95px;  /* Ancho del botón */"class="boton2"></a>
+
     <a href="Seleccion.php" style=" background: url(../Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 125%; 
 height: 90px;  /* Alto del botón */

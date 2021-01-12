@@ -13,14 +13,14 @@
 <section>
 
 <center>
+ 
+ <img src="../Imagenes/Nivel2/C.png" width="32%" height="25%" />
+ <img src="../Imagenes/Nivel2/CU.png" width="30%" height="25%" />
+ <img src="../Imagenes/Nivel2/T.png" width="30%" height="25%" />
 <a href="#" style=" background: url(../Imagenes/Nivel2/escuchar.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 115%; 
 height: 140px;  /* Alto del botón */ 
  width: 140px;  /* Ancho del botón */"class="boton"> </a>
- <a href="#" style=" background: url(../Imagenes/Nivel2/escuchar1.png) /* Url de la imagen */ no-repeat center center 
-/* Color del botón */; background-size: 105%; 
-height: 290px;  /* Alto del botón */ 
- width: 590px;  /* Ancho del botón */"class="boton1"> </a>
 
 <a href="Seleccion.php" style=" background: url(../Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 105%; 

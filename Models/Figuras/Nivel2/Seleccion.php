@@ -19,8 +19,8 @@ height: 180px;  /* Alto del botón */
 height: 180px;  /* Alto del botón */ 
  width: 285px;  /* Ancho del botón */"class="boton2"></a>
 
-<a href="A3.php" style=" background: url(../Imagenes/Nivel2/tres.png) /* Url de la imagen */ no-repeat center center 
-/* Color del botón */; background-size: 133%; 
+<a href="A3.php" style=" background: url(../Imagenes/Nivel2/escuchar.png) /* Url de la imagen */ no-repeat center center 
+/* Color del botón */; background-size: 99%; 
 height: 180px;  /* Alto del botón */ 
  width: 285px;  /* Ancho del botón */"class="boton3"></a>
  

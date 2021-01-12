@@ -11,13 +11,14 @@
 </head>
 <body>
 <section1><center>
- <img src="../Imagenes/Nivel3/decir.png" width="580px" height="250px"/>
+ <img src="../Imagenes/Nivel3/1.png" width="300px" height="280px"/><br>
+ <audio src="audio.mp3" preload="none" controls></audio>
 <br>
+<a href="A3.1.php" style=" background: url(../Imagenes/Menu/flecha.png) /* Url de la imagen */ no-repeat center center 
+/* Color del botón */; background-size: 125%; 
+height: 85px;  /* Alto del botón */
+  width: 95px;  /* Ancho del botón */"class="boton2"></a>
 
-<a href="#" style=" background: url(../Imagenes/Nivel3/escucharniño.png) /* Url de la imagen */ no-repeat center center 
-/* Color del botón */; background-size: 95%; 
-height: 120px;  /* Alto del botón */ 
- width: 90px;  /* Ancho del botón */"class="boton"></a>
 
 <a href="Seleccion.php" style=" background: url(../Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 125%; 
