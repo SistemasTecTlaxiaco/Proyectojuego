@@ -1,0 +1,24 @@
+body{
+    background-color:#4ebddf;
+  }
+  .boton {
+    position: relative;
+    top: 8px; left:10px;
+  
+    display: table;
+    border-radius: 100%;
+    cursor: pointer;
+      box-shadow:
+  /* Sombras externa */
+  inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
+  /* Sombra interna */
+  0 5px 20px rgba(0,0,0,.1);
+  }
+  /* Al presionar */
+  .boton:active{
+    box-shadow: inset 0 5px 30px rgba(0,0,0,.2); /* Sombra interior */
+    background-size: contain; /* Cambiamos el tamaño de la imagen */
+  }
+  .boton{
+    display: inline-block;
+  }
