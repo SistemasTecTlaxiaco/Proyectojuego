@@ -10,7 +10,7 @@
   
 </head>
 <body><center>
-<video src="Agrega video..." width=80%  height=300 controls poster="../Imagenes/Nivel1/CancionVideo.png">
+<video src="../video/numeros.mp4" width=60%  height=300 controls poster="../Imagenes/Nivel1/CancionVideo.png">
 </video></center>
 <a href="Ejercicio1.php" style=" background: url(../Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 125%; 
