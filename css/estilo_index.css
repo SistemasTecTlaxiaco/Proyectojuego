@@ -4,7 +4,7 @@ body{
 	max-width:705px;
 	min-height:600px;
 	position:relative;
-	background:url(Imagenes/inicio.jpg) no-repeat center;
+	background:url(Imagenes/inicio.PNG) no-repeat center;
 	box-shadow:0 0px 0px 0 rgba(0,0,0,.24),0 0px 0px 0 rgba(0,0,0,.19);
 }
 *,:after,:before{box-sizing:border-box}
