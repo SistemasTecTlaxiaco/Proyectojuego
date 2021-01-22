@@ -13,8 +13,6 @@
 <body>
 
 <section1><center>
-<video src="../video/escribirnumeros.mp4" width=50%  height=300 controls poster="../Imagenes/Nivel2/VideoDibujar.png">
-</video>
 <br>
 <br>
 
@@ -22,14 +20,17 @@
 
 <br>
 <br>
+<a class="boton" role="button" style="width: 370px;height: 100px;background-image: url(../Imagenes/Nivel2/Grupo%203.png); float: center;" href="A14.php"></a>
 
-      <a class="boton" role="button" style="width: 370px;height: 100px;background-image: url(../Imagenes/Nivel2/Grupo%203.png); float: left;" href="A1.php"></a>
-
-
-<a href="A12.php" style=" background: url(../Imagenes/Menu/flecha.png) /* Url de la imagen */ no-repeat center center 
+<a href="A13.php" style=" background: url(../Imagenes/Menu/flecharegresa.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 125%; 
 height: 90px;  /* Alto del botón */
-  width: 100px;  /* Ancho del botón */  float: right; "class="boton2"></a>    
+  width: 100px;  /* Ancho del botón */ float: left; "class="botonR"></a>
+
+<a href="A15.php" style=" background: url(../Imagenes/Menu/flecha.png) /* Url de la imagen */ no-repeat center center 
+/* Color del botón */; background-size: 125%; 
+height: 90px;  /* Alto del botón */
+  width: 100px;  /* Ancho del botón */  float: right; "class="boton2"></a>
 
 </section1>
 <br>
@@ -64,7 +65,7 @@ height: 90px;  /* Alto del botón */
     var canvas = document.getElementById("pizarra");
 var ctx = canvas.getContext("2d");
 var img = new Image();
-img.src = "../Imagenes/Nivel2/planilla1.jpg";
+img.src = "../Imagenes/Nivel2/Planilla4.jpg";
 ctx.drawImage(img, 0, 0);
 
 img.onload = function(){
@@ -97,7 +98,7 @@ img.onload = function(){
             let ctx = miCanvas.getContext('2d')
             // Estilos de linea
             ctx.lineJoin = ctx.lineCap = 'round';
-            ctx.lineWidth = 65;
+            ctx.lineWidth = 48;
             // Color de la linea
             ctx.strokeStyle = '#0B68F1';
             // Marca el nuevo punto
