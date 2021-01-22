@@ -29,7 +29,7 @@
             </div>
             <div class="row">
                 <div class="col-md-6"><a class="btn btn-primary" role="button" style="width: 470px;height: 100px;background-image: url(&quot;assets/img/Grupo%203.png&quot;);" href="n1A1.php"></a></div>
-                <div class="col-md-6"><a class="btn btn-primary" role="button" style="width: 470px;height: 100px;background-image: url(&quot;assets/img/Grupo%204.png&quot;);" href="n1A2.php"></a></div>
+                <div class="col-md-6"><a class="btn btn-primary" role="button" style="width: 470px;height: 100px;background-image: url(&quot;assets/img/Grupo%204.png&quot;);" href="nivel1.php"></a></div>
             </div>
         </div>
     </div>

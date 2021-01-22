@@ -204,7 +204,7 @@ else
                 <div class="col-md-6">
                     <div class="btn-group" role="group"><a class="btn btn-primary border rounded-circle" role="button" style="width: 120px;height: 120px;background-image: url(&quot;assets/img/Voc_botos.jpg&quot;);" href="nivel2.php"></a></div>
                 </div>
-                <div class="col-md-6 text-right"><a class="btn btn-primary" role="button" style="width: 120px;height: 120px;background-image: url(&quot;assets/img/Voc_botob.png&quot;);" href="n2A3.php"></a></div>
+                <div class="col-md-6 text-right"><a class="btn btn-primary" role="button" style="width: 120px;height: 120px;background-image: url(&quot;assets/img/Voc_botob.png&quot;);" href="nivel2.php"></a></div>
             </div>
         </div>
     </div>
