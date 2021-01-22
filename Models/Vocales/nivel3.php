@@ -58,7 +58,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6"></div>
-                <div class="col-md-6 text-right"><a class="btn btn-primary border rounded-circle" role="button" style="width: 120px;height: 120px;background-image: url(&quot;assets/img/Voc_botos.jpg&quot;);" href="menunivel.php"></a></div>
+                <div class="col-md-6 text-right"><a class="btn btn-primary border rounded-circle" role="button" style="width: 150px;height: 110px;background-image: url(&quot;assets/img/Grupo%2020.png&quot;);" href="menunivel.php"></a></div>
             </div>
         </div>
     </div>

@@ -20,16 +20,19 @@
 <br>
 <br>
 
+<a href="n2A1.3.php" style=" background: url(&quot;assets/img/flecharegresa.png&quot;) /* Url de la imagen */ no-repeat center center 
+/* Color del botón */; background-size: 125%; 
+height: 90px;  /* Alto del botón */
+  width: 100px;  /* Ancho del botón */ float: left; "class="botonR"></a>
 
-
-<a href="n2A1.2.php" style=" background: url(&quot;assets/img/flecha.png&quot;) /* Url de la imagen */ no-repeat center center 
+<a href="n2A1.5.php" style=" background: url(&quot;assets/img/flecha.png&quot;) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 125%; 
 height: 90px;  /* Alto del botón */
   width: 100px;  /* Ancho del botón */  float: right; "class="boton2"></a>
 <br>
 
 
-<a class="btn btn-primary text-right" role="button" style="width: 250px;height: 100px;background-image: url(&quot;assets/img/Grupo%203.png&quot;);  "href="n2A1.php"></a>
+<a class="btn btn-primary text-right" role="button" style="width: 250px;height: 100px;background-image: url(&quot;assets/img/Grupo%203.png&quot;);  "href="n2A1.4.php"></a>
 <br>
 <br>
 <br>
@@ -66,7 +69,7 @@ height: 90px;  /* Alto del botón */
     var canvas = document.getElementById("pizarra");
 var ctx = canvas.getContext("2d");
 var img = new Image();
-img.src = "assets/img/n2A1.jpg";
+img.src = "assets/img/n2o1.jpg";
 ctx.drawImage(img, 0, 0);
 
 img.onload = function(){
@@ -101,7 +104,7 @@ img.onload = function(){
             ctx.lineJoin = ctx.lineCap = 'round';
             ctx.lineWidth = 65;
             // Color de la linea
-            ctx.strokeStyle = '#26F010';
+            ctx.strokeStyle = '#33C4F3 ';
             // Marca el nuevo punto
             if (event.changedTouches == undefined) {
                 // Versión ratón

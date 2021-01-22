@@ -25,7 +25,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4 text-center"><a class="btn btn-primary border rounded-circle" role="button" style="width: 200px;height: 200px;background-image: url(&quot;assets/img/voc_n1.png&quot;);" href="n2A1.php"></a></div>
+                <div class="col-md-4 text-center"><a class="btn btn-primary border rounded-circle" role="button" style="width: 200px;height: 200px;background-image: url(&quot;assets/img/act2.jpg&quot;);" href="n2A1.php"></a></div>
                 <div class="col-md-4 text-center"><a class="btn btn-primary border rounded-circle" role="button" style="width: 200px;height: 200px;background-image: url(&quot;assets/img/voc_n3.png&quot;);" href="n2A2.php"></a></div>
                 <div class="col-md-4 text-center"><a class="btn btn-primary border rounded-circle" role="button" style="width: 200px;height: 200px;background-image: url(&quot;assets/img/voc_n2.png&quot;);" href="n2A3.php"></a></div>
             </div>
@@ -41,7 +41,7 @@
     <div>
         <div class="container">
             <div class="row">
-                <div class="col-md-6"><a class="btn btn-primary border rounded-circle" role="button" style="width: 120px;height: 120px;background-image: url(&quot;assets/img/Voc_botos.jpg&quot;);" href="menunivel.php"></a></div>
+                <div class="col-md-6"><a class="btn btn-primary border rounded-circle" role="button" style="width: 150px;height: 110px;background-image: url(&quot;assets/img/Grupo%2020.png&quot;);" href="menunivel.php"></a></div>
                 <div class="col-md-6 text-right"></div>
             </div>
         </div>
