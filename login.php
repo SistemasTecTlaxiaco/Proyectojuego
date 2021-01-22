@@ -26,11 +26,11 @@
                  <br></br>
 
                 <label for="user" class="label">nombre</label>
-                <input id="user"  name="usuario" type="text" class="input">
+                <input id="user" style="color:#050505" name="usuario" type="text" class="input">
               </div>
               <div class="group">
                 <label for="pass" class="label">Apellido </label>
-                <input id="pass" name="clave" type="password" class="input" data-type="password">
+                <input id="pass" style="color:#050505" name="clave" type="password" class="input" data-type="password">
               </div>
 
 

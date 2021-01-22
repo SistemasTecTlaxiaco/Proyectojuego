@@ -19,28 +19,28 @@
           <div class="login-form">
             <div class="sign-in-htm">
 
-            <form action="logica/registrar.php" method="POST">
+            <form action="logica/registrar.php" onsubmit=" validar();" method="POST">
               <div class="group">
 
                  <br></br>
                  <br></br>
                 <label for="user" class="label">nombre</label>
-                <input id="user" name="nombre" type="text" class="input">
+                <input id="user" name="nombre" type="text" class="input" required pattern="[A-Za-z]{2,15}">
               </div>
               <div class="group">
                 <label for="pass" class="label">Apellido Paterno</label>
-                <input id="ap" name="Ap" type="text" class="input" >
+                <input id="ap" name="Ap" type="text" class="input" required pattern="[A-Za-z]{2,20}">
               </div>
               <div class="group">
                   <label for="pass" class="label">Apellido Materno</label>
-                  <input id="am" name="Am" type="text" class="input" >
+                  <input id="am" name="Am" type="text" class="input" required pattern="[A-Za-z]{2,20}">
                 </div>
                 <div class="group">
                   <label for="pass" class="label">Edad</label>
-                  <input id="ed" name="edad" type="number" class="input">
+                  <input id="ed" name="edad" type="number" class="input" min="3" max="6" required>
                 </div>
                 <div class="modal-footer">
-                <button id="envio" class="boton verde" >Guardar</button>
+                <button id="envio" class="boton verde" onclick="validar();" class="submit" >Guardar</button>
                   <a href="inicio.php" class="boton azul">CANCELAR</a>
                 </div>
                 </form>
