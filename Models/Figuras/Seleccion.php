@@ -29,7 +29,7 @@ height: 195px;  /* Alto del botón */
 <a href="Menu.php" style=" background: url(Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center, #62BC0F /* Color del botón */; 
 background-size: 115%;
  height: 90px;  /* Alto del botón */
-  width: 100px;  /* Ancho del botón */"class="boton4"></a> 
+  width: 100px;  /* Ancho del botón */ float: left;"class="boton4"></a> 
 </section>
 </body>
 </html>
