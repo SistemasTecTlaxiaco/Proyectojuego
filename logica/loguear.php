@@ -14,7 +14,9 @@ $array = pg_fetch_array($consulta);
 
 if($array['contar']>0){
     $_SESSION['username']=$usuario;
-    header("location: ../menu.php");
+
+    header("location: ../Models/menu.php");
+
 
 }else{
     echo '<script language="javascript">alert("Error de autentificacion");window.location.href="../login.php"</script>';

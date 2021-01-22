@@ -1,0 +1,65 @@
+body{
+    background-color:#f7e876;
+  }  
+  .boton {
+    position: relative;
+    top: 90px; left:30px;
+  
+    display: table;
+    border-radius: 100%;
+    cursor: pointer;
+      box-shadow:
+  /* Sombras externa */
+  inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
+  /* Sombra interna */
+  0 5px 20px rgba(0,0,0,.1);
+  }
+  /* Al presionar */
+  .boton:active,.boton2:active,.boton3:active,.boton4:active{
+    box-shadow: inset 0 5px 30px rgba(0,0,0,.2); /* Sombra interior */
+    background-size: contain; /* Cambiamos el tamaño de la imagen */
+  }
+  .boton{
+    display: inline-block;
+  }
+  
+  .boton2 {position: relative;
+    top: -125px; left:340px;
+  
+    display: table;
+    border-radius: 100%;
+    cursor: pointer;
+      box-shadow:
+  /* Sombras externa */
+  inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
+  /* Sombra interna */
+  0 5px 20px rgba(0,0,0,.1);
+  }
+  
+  .boton3 {position: relative;
+    top: -345px; left:650px;
+  
+    display: table;
+    border-radius: 100%;
+    cursor: pointer;
+      box-shadow:
+  /* Sombras externa */
+  inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
+  /* Sombra interna */
+  0 5px 20px rgba(0,0,0,.1);
+  }
+  
+  .boton4 {position: relative;
+    top: -340px; left:780px;
+  
+    display: table;
+    border-radius: 100%;
+    cursor: pointer;
+      box-shadow:
+  /* Sombras externa */
+  inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
+  /* Sombra interna */
+  0 5px 20px rgba(0,0,0,.1);
+  
+  }
+  
