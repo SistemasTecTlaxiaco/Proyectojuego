@@ -8,7 +8,14 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" type="text/javascript"></script>
     <link rel="stylesheet" type="text/css" href="../estilos2/EstilosA1.css" />
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimum-scale=1.0">
+    <a href="../../menu.php" style=" background: url(../Imagenes/este.PNG) /* Url de la imagen */ no-repeat center center, 
+#62BC0F /* Color del botón */; background-size: 110%; height: 55px;  /* Alto del botón */
+  width: 110px;  /* Ancho del botón */"class="leekids" ></a>
   
+<a href="Seleccion.php" style=" background: url(../Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center 
+/* Color del botón */; background-size: 125%; 
+height: 90px;  /* Alto del botón */
+  width: 100px;  /* Ancho del botón */"class="boton"></a>
 </head>
 <body>
 
@@ -20,7 +27,7 @@
 
 <br>
 <br>
-<a class="boton" role="button" style="width: 370px;height: 100px;background-image: url(../Imagenes/Nivel2/Grupo%203.png); float:center;" href="A19.php"></a>
+<a class="botonr" role="button" style="width: 370px;height: 100px;background-image: url(../Imagenes/Nivel2/Grupo%203.png); float:center;" href="A19.php"></a>
 
 <a href="A18.php" style=" background: url(../Imagenes/Menu/flecharegresa.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 125%; 
@@ -34,10 +41,7 @@ height: 90px;  /* Alto del botón */
 </section1>
 <br>
 <br>
-<a href="Seleccion.php" style=" background: url(../Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center 
-/* Color del botón */; background-size: 125%; 
-height: 90px;  /* Alto del botón */
-  width: 100px;  /* Ancho del botón */"class="boton"></a>
+
   <script>
     //======================================================================
     // VARIABLES

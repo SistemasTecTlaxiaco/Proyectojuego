@@ -3,7 +3,7 @@ body{
   }  
   .boton {
     position: relative;
-    top: 90px; left:30px;
+    top: 0px; left:30px;
   
     display: table;
     border-radius: 100%;
@@ -24,7 +24,7 @@ body{
   }
   
   .boton2 {position: relative;
-    top: -125px; left:340px;
+    top: -215px; left:340px;
   
     display: table;
     border-radius: 100%;
@@ -37,7 +37,7 @@ body{
   }
   
   .boton3 {position: relative;
-    top: -345px; left:650px;
+    top: -435px; left:650px;
   
     display: table;
     border-radius: 100%;
@@ -50,7 +50,7 @@ body{
   }
   
   .boton4 {position: relative;
-    top: -340px; left:780px;
+    top: -65px; left:780px;
   
     display: table;
     border-radius: 100%;
@@ -61,5 +61,27 @@ body{
   /* Sombra interna */
   0 5px 20px rgba(0,0,0,.1);
   
+  }
+  
+  
+  .leekids{
+    position: relative;
+      top: -5px; left:25px;
+    
+      display: table;
+      border-radius: 10%;
+      cursor: pointer;
+        box-shadow:
+    /* Sombras externa */
+    inset 0 10px 15px rgba(255, 243, 239, 1.933), inset 0 -10px 15px rgba(0, 0, 0, 0.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
+    /* Sombra interna */
+    0 2px 20px rgb(74, 99, 242);
+  }
+  .leekids{
+    display: inline-block;
+  }
+  .leekids:active {
+    box-shadow: inset 0 5px 30px rgba(0,0,0,.2); /* Sombra interior */
+    background-size: 100%; /* Cambiamos el tamaño de la imagen */
   }
   

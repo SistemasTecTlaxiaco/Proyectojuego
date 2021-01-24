@@ -19,7 +19,7 @@
     <a href="../menu.php" style=" background: url(Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center, #62BC0F /* Color del botón */; background-size: 105%; height: 80px;  /* Alto del botón */
   width: 100px;  /* Ancho del botón */"class="boton"></a> 
   
-<a href="#" style=" background: url(Imagenes/este.PNG) /* Url de la imagen */ no-repeat center center, 
+<a href="../menu.php" style=" background: url(Imagenes/este.PNG) /* Url de la imagen */ no-repeat center center, 
 #62BC0F /* Color del botón */; background-size: 110%; height: 55px;  /* Alto del botón */
   width: 110px;  /* Ancho del botón */"class="boton1" ></a>
    </center>

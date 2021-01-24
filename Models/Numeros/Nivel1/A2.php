@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="../estilos/EstiloA1.css" />
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimum-scale=1.0">
   
-   
+    
    
   <script type="text/javascript">
 
@@ -59,6 +59,10 @@
 
 </head>
 <body>
+<a href="../../menu.php" style=" background: url(../Imagenes/este.PNG) /* Url de la imagen */ no-repeat center center, 
+#62BC0F /* Color del botón */; background-size: 110%; height: 55px;  /* Alto del botón */
+  width: 110px;  /* Ancho del botón */"class="leekids" ></a>
+  <br>
 <a onclick="num1()" style=" background: url(../Imagenes/Nivel1/S1.PNG) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 175%; 
 height: 150px;  /* Alto del botón */ 
