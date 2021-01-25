@@ -38,15 +38,10 @@
 
 
                 <div class="modal-footer">
-<<<<<<< HEAD
 
-                  <button id="envio" class="boton azul">Iniciar</button>
-
-                  <a href="inicio.php" class="boton rojo">Cancelar</a>
-=======
                   <button id="envio" class="boton azul">INICIAR</button>
                   <a href="inicio.php" class="boton rojo">CANCELAR</a>
->>>>>>> Desarrollo
+
                 </div>
                 </form>
             </div>
