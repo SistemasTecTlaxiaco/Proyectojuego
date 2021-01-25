@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
  <!--- <div class="contenedor">--->
+ <?php
+
+session_start();
+$usuario = $_SESSION['username'];
+
+if(!isset($usuario)){
+    header("location: ../../login.php");
+
+
+}
+?>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
