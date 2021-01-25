@@ -22,14 +22,14 @@ inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), ins
 0 5px 20px rgba(0,0,0,.1);
 }
 /* Al presionar */
-.boton:active,.boton1:active {
+.boton:active,.leekids:active {
   box-shadow: inset 0 5px 30px rgba(0,0,0,.2); /* Sombra interior */
   background-size: 100%; /* Cambiamos el tamaño de la imagen */
 }
-.boton,.boton1{
+.boton,.leekids{
   display: inline-block;
 }
-.boton1{
+.leekids{
   position: relative;
     top: -313px; left:-375px;
   

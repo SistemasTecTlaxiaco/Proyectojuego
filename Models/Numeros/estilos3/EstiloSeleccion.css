@@ -1,11 +1,9 @@
-
-
 body{
-    background-color:#4ebddf;
+    background-color:#f7e876;
   }  
   .boton {
     position: relative;
-    top: 100px; left:150px;
+    top: 0px; left:30px;
   
     display: table;
     border-radius: 100%;
@@ -17,7 +15,7 @@ body{
   0 5px 20px rgba(0,0,0,.1);
   }
   /* Al presionar */
-  .boton:active,.boton2:active,.boton3:active{
+  .boton:active,.boton2:active,.boton3:active,.boton4:active{
     box-shadow: inset 0 5px 30px rgba(0,0,0,.2); /* Sombra interior */
     background-size: contain; /* Cambiamos el tamaño de la imagen */
   }
@@ -26,7 +24,7 @@ body{
   }
   
   .boton2 {position: relative;
-    top: -115px; left:540px;
+    top: -215px; left:340px;
   
     display: table;
     border-radius: 100%;
@@ -39,7 +37,7 @@ body{
   }
   
   .boton3 {position: relative;
-    top: -330px; left:650px;
+    top: -435px; left:650px;
   
     display: table;
     border-radius: 100%;
@@ -51,9 +49,8 @@ body{
   0 5px 20px rgba(0,0,0,.1);
   }
   
-  .boton4 {
-    position: relative;
-    top: -135px; left:780px;
+  .boton4 {position: relative;
+    top: -400px; left:780px;
   
     display: table;
     border-radius: 100%;
@@ -63,7 +60,10 @@ body{
   inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
   /* Sombra interna */
   0 5px 20px rgba(0,0,0,.1);
+  
   }
+  
+  
   .leekids{
     position: relative;
       top: -5px; left:25px;

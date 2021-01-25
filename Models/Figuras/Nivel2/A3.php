@@ -7,13 +7,19 @@
     <title>Document</title>
     <link rel="stylesheet" type="text/css" href="../estilos2/EstiloA3.css" />
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimum-scale=1.0">
+     
+    <a href="../../menu.php" style=" background: url(../Imagenes/este.PNG) /* Url de la imagen */ no-repeat center center, 
+#62BC0F /* Color del botón */; background-size: 110%; height: 55px;  /* Alto del botón */
+  width: 110px;  /* Ancho del botón */"class="leekids" ></a> 
   
+<a href="Seleccion.php" style=" background: url(../Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center 
+/* Color del botón */; background-size: 105%; 
+height: 80px;  /* Alto del botón */
+  width: 100px;  /* Ancho del botón */"class="boton2"></a>
 </head>
 <body>
-<section>
 
-<center>
- 
+<center> 
  <img src="../Imagenes/Nivel2/C.png" width="32%" height="25%" />
  <img src="../Imagenes/Nivel2/CU.png" width="30%" height="25%" />
  <img src="../Imagenes/Nivel2/T.png" width="30%" height="25%" />
@@ -22,12 +28,7 @@
 height: 140px;  /* Alto del botón */ 
  width: 140px;  /* Ancho del botón */"class="boton"> </a>
 
-<a href="Seleccion.php" style=" background: url(../Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center 
-/* Color del botón */; background-size: 105%; 
-height: 80px;  /* Alto del botón */
-  width: 100px;  /* Ancho del botón */"class="boton2"></a>
 </center>
-</section> 
 
 </body>
 </html>

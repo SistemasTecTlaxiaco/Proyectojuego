@@ -28,7 +28,10 @@
   </script>
   <embed src="audios/audio.mp3" hidden="true" type="audio/mp3" autostart="true"></embed>
 </head>
-<body><center>
+<body>
+
+
+<br><br><br><center>
 <a  onclick="cuadro()" style=" background: url(../Imagenes/Nivel1/cuadrado.PNG) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 98%; 
 height: 250px;  /* Alto del botón */ 
@@ -49,7 +52,9 @@ height: 250px;  /* Alto del botón */
 height: 80px;  /* Alto del botón */
   width: 100px;  /* Ancho del botón */"class="boton1"></a>
 
-
+<a href="../../menu.php" style=" background: url(../Imagenes/este.PNG) /* Url de la imagen */ no-repeat center center, 
+#62BC0F /* Color del botón */; background-size: 110%; height: 55px;  /* Alto del botón */
+  width: 110px;  /* Ancho del botón */"class="leekids" ></a>  
 </section1>
 <audio id="a1" src="../audios/cuadrado.mp3" preload></audio>
 <audio id="a2" src="../audios/circulo.mp3" preload></audio>
