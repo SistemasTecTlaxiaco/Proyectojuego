@@ -40,7 +40,7 @@
                   <input id="ed" name="edad" type="number" class="input" min="3" max="6" required>
                 </div>
                 <div class="modal-footer">
-                <button id="envio" class="boton verde" onclick="validar();" class="submit" >Guardar</button>
+                <button id="envio" class="boton verde" onclick="validar();" class="submit" >GUARDAR</button>
                   <a href="inicio.php" class="boton azul">CANCELAR</a>
                 </div>
                 </form>

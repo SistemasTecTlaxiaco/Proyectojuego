@@ -35,8 +35,8 @@
 
 
                 <div class="modal-footer">
-                  <button id="envio" class="boton azul">Iniciar</button>
-                  <a href="inicio.php" class="boton rojo">Cancelar</a>
+                  <button id="envio" class="boton azul">INICIAR</button>
+                  <a href="inicio.php" class="boton rojo">CANCELAR</a>
                 </div>
                 </form>
             </div>
