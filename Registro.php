@@ -43,7 +43,7 @@
 
                 </div>
                 <div class="modal-footer">
-                <button id="envio" class="boton verde" onclick="validar();" class="submit" >Guardar</button>
+                <button id="envio" class="boton verde" onclick="validar();" class="submit" >GUARDAR</button>
                   <a href="inicio.php" class="boton azul">CANCELAR</a>
                 </div>
                 </form>
