@@ -1,5 +1,6 @@
 
 <!DOCTYPE html>
+
 <html lang="es">
 <head>
 	<meta charset="utf-8">
@@ -24,7 +25,8 @@
 
                  <br></br>
                  <br></br>
-                <label for="user" class="label">nombre</label>
+             <label for="user" class="label">nombre</label>
+
                 <input id="user" name="nombre" type="text" class="input" required pattern="[A-Za-z]{2,15}">
               </div>
               <div class="group">
@@ -38,19 +40,20 @@
                 <div class="group">
                   <label for="pass" class="label">Edad</label>
                   <input id="ed" name="edad" type="number" class="input" min="3" max="6" required>
+
                 </div>
                 <div class="modal-footer">
+
                 <button id="envio" class="boton verde" onclick="validar();" class="submit" >GUARDAR</button>
+              
                   <a href="inicio.php" class="boton azul">CANCELAR</a>
+ 
                 </div>
                 </form>
             </div>
           </div>
         </div>
       </div>
-
-
-
 </div>
 </body>
 </html>
