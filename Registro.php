@@ -25,7 +25,7 @@
 
                  <br></br>
                  <br></br>
-                <label for="user" class="label">nombre</label>
+             <label for="user" class="label">nombre</label>
 
                 <input id="user" name="nombre" type="text" class="input" required pattern="[A-Za-z]{2,15}">
               </div>
@@ -43,17 +43,17 @@
 
                 </div>
                 <div class="modal-footer">
+
                 <button id="envio" class="boton verde" onclick="validar();" class="submit" >GUARDAR</button>
+              
                   <a href="inicio.php" class="boton azul">CANCELAR</a>
+ 
                 </div>
                 </form>
             </div>
           </div>
         </div>
       </div>
-
-
-
 </div>
 </body>
 </html>
