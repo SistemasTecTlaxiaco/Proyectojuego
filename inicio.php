@@ -26,9 +26,14 @@
                 <div class="modal-footer">
                   <ul></ul>
                   <ul></ul>
-                  <a href="Registro.php" class="boton verde">REGISTRARSE</a>
-                  <a href="login.php" class="boton azul">CONTINUAR</a>
-                  <a href="index.php" class="boton rojo">SALIR</a>
+                 <b>
+                   <big><big> <a href="Registro.php" class="boton verde">REGISTRARSE</a></big></big>
+                  <br>
+                  <big><big> <a href="login.php" class="boton azul">CONTINUAR</a></big></big>
+                  <br>
+                  <big><big> <a href="index.php" class="boton rojo">SALIR</a></big></big>
+                  
+                </b>
                 </div>
             </div>
           </div>
