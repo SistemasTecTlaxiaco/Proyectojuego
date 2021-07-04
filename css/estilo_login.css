@@ -1,9 +1,11 @@
 body{
 	width:100%;
 	margin:auto;
-	max-width:705px;
-	min-height:600px;
-	background:url(Imagenes/niños.jpg) no-repeat center;
+	/*max-width:705px;   
+	min-height:600px;*/
+	background:url(Imagenes/loguinA.png) no-repeat center;
+	
+	background-color:hsl(73, 70%, 40%);
 	box-shadow:0 0px 0px 0 rgba(0,0,0,.24),0 0px 0px 0 rgba(0,0,0,.19);
 }
 *,:after,:before{box-sizing:border-box}
