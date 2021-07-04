@@ -1,6 +1,12 @@
-
-
-body{background: rgb(119, 159, 220);
+body{
+  font-size: 1.4em;
+	background: url(../Imagenes/Nivel1/Ejercicio.png) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;  
+  background-image: url(../Imagenes/Nivel1/Ejercicio.png);
+width:100%; 
   }  
   .boton { position: relative;
     top: 5px; left:770px;
