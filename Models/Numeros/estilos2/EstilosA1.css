@@ -1,0 +1,72 @@
+body{ 
+  font-size: 1.4em;
+	background: url(../Imagenes/Nivel2/Papel.png) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+  background-image: url(../Imagenes/Nivel2/Papel.png);
+width:100%; 
+  }
+  canvas {
+    width: 1100px;
+    height: 400px;
+    background-color: #0D0909;
+}   
+  .boton, .botonr {
+    position: relative;
+    top: 30px; left:600px;
+  
+    display: table;
+    border-radius: 100%;
+    cursor: pointer;
+      box-shadow:
+  /* Sombras externa */
+  inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
+  /* Sombra interna */
+  0 5px 20px rgba(0,0,0,.1);
+  }
+  /* Al presionar */
+  .boton:active,.botonr:active{
+    box-shadow: inset 0 5px 30px rgba(0,0,0,.2); /* Sombra interior */
+    background-size: contain; /* Cambiamos el tamaño de la imagen */
+  }
+  .boton{
+    display: inline-block;
+  }
+  .botonr {
+    position: relative;
+    top: 10px; left:30px;
+  
+    display: table;
+    border-radius: 100%;
+    cursor: pointer;
+      box-shadow:
+  /* Sombras externa */
+  inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
+  /* Sombra interna */
+  0 5px 20px rgba(0,0,0,.1);
+  }
+  
+  
+  .leekids{
+    position: relative;
+      top: -40px; left:25px;
+    
+      display: table;
+      border-radius: 10%;
+      cursor: pointer;
+        box-shadow:
+    /* Sombras externa */
+    inset 0 10px 15px rgba(255, 243, 239, 1.933), inset 0 -10px 15px rgba(0, 0, 0, 0.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
+    /* Sombra interna */
+    0 2px 20px rgb(74, 99, 242);
+  }
+  .leekids{
+    display: inline-block;
+  }
+  .leekids:active {
+    box-shadow: inset 0 5px 30px rgba(0,0,0,.2); /* Sombra interior */
+    background-size: 100%; /* Cambiamos el tamaño de la imagen */
+  }
+  
