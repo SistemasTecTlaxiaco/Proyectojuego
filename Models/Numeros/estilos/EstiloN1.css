@@ -1,0 +1,94 @@
+
+body{
+  font-size: 1.4em;
+	background: url(../Imagenes/Nivel1/Ejercicio.png) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+  background-image: url(../Imagenes/Nivel1/Ejercicio.png);
+width:100%; 
+
+  }     
+  .boton {
+    position: relative;
+    top: 100px; left:150px;
+  
+    display: table;
+    border-radius: 100%;
+    cursor: pointer;
+      box-shadow:
+  /* Sombras externa */
+  inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
+  /* Sombra interna */
+  0 5px 20px rgba(0,0,0,.1);
+  }
+  /* Al presionar */
+  .boton:active,.boton2:active,.boton3:active{
+    box-shadow: inset 0 5px 30px rgba(0,0,0,.2); /* Sombra interior */
+    background-size: contain; /* Cambiamos el tamaño de la imagen */
+  }
+  .boton{
+    display: inline-block;
+  }
+  
+  .boton2 {position: relative;
+    top: -115px; left:540px;
+  
+    display: table;
+    border-radius: 100%;
+    cursor: pointer;
+      box-shadow:
+  /* Sombras externa */
+  inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
+  /* Sombra interna */
+  0 5px 20px rgba(0,0,0,.1);
+  }
+  
+  .boton3 {position: relative;
+    top: -330px; left:650px;
+  
+    display: table;
+    border-radius: 100%;
+    cursor: pointer;
+      box-shadow:
+  /* Sombras externa */
+  inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
+  /* Sombra interna */
+  0 5px 20px rgba(0,0,0,.1);
+  }
+  
+  .boton4 {
+    position: relative;
+    top: -135px; left:780px;
+  
+    display: table;
+    border-radius: 100%;
+    cursor: pointer;
+      box-shadow:
+  /* Sombras externa */
+  inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
+  /* Sombra interna */
+  0 5px 20px rgba(0,0,0,.1);
+  }
+  .leekids{
+    position: relative;
+      top: -5px; left:25px;
+    
+      display: table;
+      border-radius: 10%;
+      cursor: pointer;
+        box-shadow:
+    /* Sombras externa */
+    inset 0 10px 15px rgba(255, 243, 239, 1.933), inset 0 -10px 15px rgba(0, 0, 0, 0.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
+    /* Sombra interna */
+    0 2px 20px rgb(74, 99, 242);
+  }
+  .leekids{
+    display: inline-block;
+  }
+  .leekids:active {
+    box-shadow: inset 0 5px 30px rgba(0,0,0,.2); /* Sombra interior */
+    background-size: 100%; /* Cambiamos el tamaño de la imagen */
+  }
+  
