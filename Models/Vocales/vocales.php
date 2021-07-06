@@ -22,33 +22,12 @@ if(!isset($usuario)){
     <link rel="stylesheet" href="assets/css/Lightbox-Gallery.css">
     <link rel="stylesheet" href="assets/css/Navigation-with-Button.css">
     <link rel="stylesheet" href="assets/css/smoothproducts.css">
+    <link rel="stylesheet" href="assets/css/background.css">
 </head>
-
-<body style="background-image: url(&quot;assets/img/fondo.jpg&quot;);">
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col text-center" style="width: 300px;"><img style="width: 300px;height: 150px;background-image: url(&quot;assets/img/voc_co.png&quot;);"></div>
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <h2 class="text-center border-info" style="background-color: #0f9224;background-image: url(&quot;assets/img/fondo.jpg&quot;);color: rgb(5,7,6);font-size: 80px;"><strong>Vocales</strong></h2>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6"><a class="btn btn-info btn-lg text-right border rounded-circle" role="button" style="width: 400px;height: 380px;background-image: url(&quot;assets/img/Grupo%201.png&quot;);" href="menunivel.php"></a></div>
-                <div class="col-md-6 text-center"><a class="btn btn-outline-light btn-lg text-right border rounded-circle" role="button" href="../menu.php" style="width: 200px;height: 151px;background-image: url(&quot;assets/img/Grupo%202.png&quot;);"></a></div>
-            </div>
-        </div>
-    </div>
+<body>
+    <a href="http://localhost/Proyectojuego-master/menu.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
+    <a href="menunivel.php"><img id="inicio" src="assets/img/Grupo1.png" alt=""></a>
+    <a href="../menu.php"><img id="salir" src="assets/img/Grupo2.png" alt=""></a>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>

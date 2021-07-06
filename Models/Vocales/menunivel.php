@@ -2,14 +2,7 @@
 <html>
 <?php
 
-session_start();
-$usuario = $_SESSION['username'];
 
-if(!isset($usuario)){
-    header("location: ../../login.php");
-
-
-}
 ?>
 <head>
     <meta charset="utf-8">
@@ -22,57 +15,16 @@ if(!isset($usuario)){
     <link rel="stylesheet" href="assets/css/Lightbox-Gallery.css">
     <link rel="stylesheet" href="assets/css/Navigation-with-Button.css">
     <link rel="stylesheet" href="assets/css/smoothproducts.css">
+    <link rel="stylesheet" href="assets/css/bgmenuniveles.css">
 </head>
 
-<body style="background-image: url(&quot;assets/img/fondo3.jpg&quot;);">
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12"><button class="btn btn-primary invisible" type="button">Button</button></div>
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4"><a class="btn btn-primary text-center" role="button" style="width: 300px;height: 200px;background-image: url(&quot;assets/img/voc_1.png&quot;);" href="nivel1.php"></a></div>
-                <div class="col-md-4"></div>
-                <div class="col-md-4"><a class="btn btn-primary" role="button" style="width: 300px;height: 200px;background-image: url(&quot;assets/img/voc_2.png&quot;);" href="nivel2.php"></a></div>
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 text-center"><button class="btn btn-primary invisible" type="button"></button></div>
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4"></div>
-                <div class="col-md-4"><a class="btn btn-primary" role="button" style="width: 300px;height: 200px;background-image: url(&quot;assets/img/voc_3.png&quot;);" href="nivel3.php"></a></div>
-                <div class="col-md-4"></div>
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12"><button class="btn btn-primary invisible" type="button"></button></div>
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6"></div>
-                <div class="col-md-6 text-right"><a class="btn btn-primary border rounded-circle" role="button" style="width: 150px;height: 110px;background-image: url(&quot;assets/img/Grupo%2020.png&quot;);" href="vocales.php"></a></div>
-            </div>
-        </div>
-    </div>
-    <div></div>
+<body>
+    <a href="vocales.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
+    <a href="nivel1.php"><img id="lvl1" src="assets/img/level1vocal.png" alt=""></a>
+    <a href="nivel2.php"><img id="lvl2" src="assets/img/level2vocal.png" alt=""></a>
+    <a href="nivel3.php"><img id="lvl3" src="assets/img/level3vocal.png" alt=""></a>
+    
+    
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>

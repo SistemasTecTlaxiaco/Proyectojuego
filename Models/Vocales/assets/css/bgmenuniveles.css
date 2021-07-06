@@ -1,0 +1,18 @@
+body{
+    background-image: url(http://localhost/Proyectojuego-master/Models/Vocales/assets/img/levels.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: blueviolet;
+}
+#lvl1{
+    margin-top: 22%;
+}
+#lvl2{
+    margin-top: 13%;
+}
+#casita{
+    height: 100px;
+    width: 100px;
+    margin-top: -39%;
+}

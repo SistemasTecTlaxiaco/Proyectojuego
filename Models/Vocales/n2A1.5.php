@@ -7,10 +7,11 @@
     <title>lu</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/bglevel3.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" type="text/javascript"></script>
 </head>
 
-<body style="background-color: rgb(239,206,204);">
+<body >
 <section1><center>
 <br>
 <br>

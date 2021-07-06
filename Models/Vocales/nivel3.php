@@ -12,9 +12,10 @@
     <link rel="stylesheet" href="assets/css/Lightbox-Gallery.css">
     <link rel="stylesheet" href="assets/css/Navigation-with-Button.css">
     <link rel="stylesheet" href="assets/css/smoothproducts.css">
+    <link rel="stylesheet" href="assets/css/bglevel3.css">
 </head>
 
-<body style="background-image: url(&quot;assets/img/fondo.jpg&quot;);">
+<body>
     <div>
         <div class="container">
             <div class="row">
@@ -22,46 +23,20 @@
             </div>
         </div>
     </div>
-    <div>
+    <div><br><br><br><br>
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h2 class="text-center border-info" style="background-color: #0f9224;background-image: url(&quot;assets/img/fondo.jpg&quot;);color: rgb(255,255,255);font-size: 80px;"><strong>Nivel 3</strong></h2>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12"><button class="btn btn-primary invisible" type="button"></button></div>
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 text-center"><a class="btn btn-primary border rounded-circle" role="button" style="width: 180px;height: 180px;background-image: url(&quot;assets/img/z_voz1.png&quot;);" href="n3A1.php"></a></div>
-                <div class="col-md-4 text-center"><a class="btn btn-primary border rounded-circle" role="button" style="width: 180px;height: 180px;background-image: url(&quot;assets/img/z_voc2.jpg&quot;);" href="n3A2.php"></a></div>
-                
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12"><button class="btn btn-primary invisible" type="button"></button></div>
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6"></div>
-                <div class="col-md-6 text-right"><a class="btn btn-primary border rounded-circle" role="button" style="width: 150px;height: 110px;background-image: url(&quot;assets/img/Grupo%2020.png&quot;);" href="menunivel.php"></a></div>
-            </div>
-        </div>
-    </div>
+                    <h2 class="text-center border-info" style="background-color: #0f9224;
+                    background-image: url(&quot;assets/img/fondo.jpg&quot;);color: rgb(255,255,255);font-size: 80px;">
+                    <strong>Nivel 3</strong></h2>
+
+
+                <a href="menunivel.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
+                <a href="n3A1.php"><img id="lv1" src="assets/img/z_voz1.png" alt=""></a>
+                <a href="n3A2.php"><img id="lv2" src="assets/img/z_voc2.jpg" alt=""></a>
+
+
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>

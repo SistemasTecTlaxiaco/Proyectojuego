@@ -7,11 +7,12 @@
     <title>lu</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/bglevel3.css">
 </head>
 
-<body style="background-color: rgb(115,36,36);">
+<body>
     <div class="col-md-12"><button class="btn btn-primary invisible" type="button" style="height: 30px;"></button></div>
-    <div>
+    <div><br><br><br><br><br>
         <div class="container">
             <div class="row">
                 <div class="col-md-4"></div>

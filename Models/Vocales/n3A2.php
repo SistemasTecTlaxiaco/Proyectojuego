@@ -12,10 +12,11 @@
     <link rel="stylesheet" href="assets/css/Lightbox-Gallery.css">
     <link rel="stylesheet" href="assets/css/Navigation-with-Button.css">
     <link rel="stylesheet" href="assets/css/smoothproducts.css">
+    <link rel="stylesheet" href="assets/css/bglevel3.css">
 </head>
 
-<body style="background-image: url(&quot;assets/img/fondo_as.jpg&quot;);">
-    <div>
+<body>
+    <div><br><br><br><br>
         <div class="container">
             <div class="row">
                 <div class="col-md-12"><button class="btn btn-primary invisible" type="button"></button></div>

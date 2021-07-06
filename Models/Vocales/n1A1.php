@@ -12,9 +12,10 @@
     <link rel="stylesheet" href="assets/css/Lightbox-Gallery.css">
     <link rel="stylesheet" href="assets/css/Navigation-with-Button.css">
     <link rel="stylesheet" href="assets/css/smoothproducts.css">
+    <link rel="stylesheet" href="assets/css/bglevel3.css">
 </head>
 
-<body style="background-image: url(&quot;assets/img/ejercicio2.jpg&quot;);">
+<body>
     <div>
         <div class="container">
             <div class="row">

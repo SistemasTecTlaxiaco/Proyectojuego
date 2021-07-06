@@ -12,40 +12,25 @@
     <link rel="stylesheet" href="assets/css/Lightbox-Gallery.css">
     <link rel="stylesheet" href="assets/css/Navigation-with-Button.css">
     <link rel="stylesheet" href="assets/css/smoothproducts.css">
+    <link rel="stylesheet" href="assets/css/bglevel2.css">
 </head>
 
-<body style="background-image: url(&quot;assets/img/fondo2.jpg&quot;);">
+<body>
     <div></div>
     <div>
+    <div><br><br><br>
         <div class="container">
             <div class="row">
                 <div class="col-md-12"><button class="btn btn-primary invisible" type="button">Button</button></div>
                 <div class="col-md-12">
-                    <h2 class="text-center border-info" style="background-color: #0f9224;background-image: url(&quot;assets/img/fondo2.jpg&quot;);color: rgb(234,18,4);font-size: 80px;"><strong>Nivel 2</strong></h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-4 text-center"><a class="btn btn-primary border rounded-circle" role="button" style="width: 200px;height: 200px;background-image: url(&quot;assets/img/act2.jpg&quot;);" href="n2A1.php"></a></div>
-                <div class="col-md-4 text-center"><a class="btn btn-primary border rounded-circle" role="button" style="width: 200px;height: 200px;background-image: url(&quot;assets/img/voc_n3.png&quot;);" href="n2A2.php"></a></div>
-                <div class="col-md-4 text-center"><a class="btn btn-primary border rounded-circle" role="button" style="width: 200px;height: 200px;background-image: url(&quot;assets/img/voc_n2.png&quot;);" href="n2A3.php"></a></div>
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12"><button class="btn btn-primary invisible" type="button">Button</button></div>
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6"><a class="btn btn-primary border rounded-circle" role="button" style="width: 150px;height: 110px;background-image: url(&quot;assets/img/Grupo%2020.png&quot;);" href="menunivel.php"></a></div>
-                <div class="col-md-6 text-right"></div>
-            </div>
-        </div>
-    </div>
+                    <h2 class="text-center border-info" style="background-color: #0f9224;
+                    background-image: url(&quot;assets/img/fondo2.jpg&quot;);color: rgb(234,18,4);font-size: 80px;">
+                    <strong>Nivel 2</strong></h2>
+                    
+                <a href="menunivel.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
+                <a href="n2A1.php"><img id="lv1" src="assets/img/act2.jpg" alt=""></a>
+                <a href="n2A2.php"><img id="lv2" src="assets/img/voc_n3.png" alt=""></a>
+                <a href="n2A3.php"><img id="lv3" src="assets/img/voc_n2.png" alt=""></a>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
