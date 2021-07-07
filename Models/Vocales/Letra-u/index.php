@@ -7,8 +7,12 @@
 
     <script src="https://unpkg.com/aframe-event-set-component@^4.0.0/dist/aframe-event-set-component.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.1/dist/aframe-extras.min.js"></script>
+    <link rel="stylesheet" href="../assets/css/RA.css">
   </head>
   <body>
+  <div><br><br><br><br><br><br>
+  <a href="../nivel3.php"><img id="casita" src="../assets/img/casita.png" alt=""></a>
+  </div>
     <a-entity >
       <a-scene >
         <a-entity
