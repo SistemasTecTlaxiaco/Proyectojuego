@@ -32,7 +32,7 @@
                     <strong>Nivel 3</strong></h2>
 
 
-                <a href="menunivel.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
+                <a href="../menu.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
                 <a href="n3A1.php"><img id="lv1" src="assets/img/z_voz1.png" alt=""></a>
                 <a href="n3A2.php"><img id="lv2" src="assets/img/z_voc2.jpg" alt=""></a>
 </div>

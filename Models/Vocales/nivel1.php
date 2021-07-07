@@ -34,7 +34,7 @@
 
 
 
-                <a href="menunivel.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
+                <a href="../menu.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
                 <a href="n1A1.php"><img id="lv1" src="assets/img/voc_m1.jpg" alt=""></a>
                 <a href="n1A2.php"><img id="lv2" src="assets/img/voc_m.jpg" alt=""></a>
     <script src="assets/js/jquery.min.js"></script>

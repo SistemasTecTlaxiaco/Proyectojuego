@@ -27,7 +27,7 @@
                     background-image: url(&quot;assets/img/fondo2.jpg&quot;);color: rgb(234,18,4);font-size: 80px;">
                     <strong>Nivel 2</strong></h2>
                     
-                <a href="menunivel.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
+                <a href="../menu.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
                 <a href="n2A1.php"><img id="lv1" src="assets/img/act2.jpg" alt=""></a>
                 <a href="n2A2.php"><img id="lv2" src="assets/img/voc_n3.png" alt=""></a>
                 <a href="n2A3.php"><img id="lv3" src="assets/img/voc_n2.png" alt=""></a>

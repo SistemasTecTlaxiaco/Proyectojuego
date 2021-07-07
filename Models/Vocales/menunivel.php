@@ -19,7 +19,7 @@
 </head>
 
 <body>
-    <a href="vocales.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
+    <a href="../menu.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
     <a href="nivel1.php"><img id="lvl1" src="assets/img/level1vocal.png" alt=""></a>
     <a href="nivel2.php"><img id="lvl2" src="assets/img/level2vocal.png" alt=""></a>
     <a href="nivel3.php"><img id="lvl3" src="assets/img/level3vocal.png" alt=""></a>
