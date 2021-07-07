@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+
     <style>
       body {
         background-color: #00FA9A;
       }
+      #casita{
+    height: 100px;
+    width: 100px;
+    margin-top: -44%;
+}
     </style>
   </head>
   <body>
@@ -76,7 +82,7 @@
     </button>
     <div class="progress-bar hide" slot="progress-bar"></div>
   </model-viewer>
-  <div>
-  <a href="../menunivel.php"><img id="casita" src="../assets/img/casita.png" alt=""></a>
+  <div><br><br><br><br><br><br>
+  <a href="../nivel3.php"><img id="casita" src="../assets/img/casita.png" alt=""></a>
   </div>
 </html>
