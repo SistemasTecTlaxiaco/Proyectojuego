@@ -25,7 +25,9 @@ if(!isset($usuario)){
     <link rel="stylesheet" href="assets/css/background.css">
 </head>
 <body>
+
     <a href="../menu.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
+
     <a href="menunivel.php"><img id="inicio" src="assets/img/Grupo1.png" alt=""></a>
     <a href="../menu.php"><img id="salir" src="assets/img/Grupo2.png" alt=""></a>
     <script src="assets/js/jquery.min.js"></script>
