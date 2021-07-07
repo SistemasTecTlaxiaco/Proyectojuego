@@ -42,7 +42,9 @@
     <div>
         <div class="container">
             <div class="row">
-                <div class="col-md-6"><a class="btn btn-primary border rounded-circle" role="button" style="width: 120px;height: 120px;background-image: url(&quot;assets/img/Voc_botos.jpg&quot;);" href="n3A2.php"></a></div>
+                <div class="col-md-6"><a class="btn btn-primary border rounded-circle" role="button" 
+                style="width: 120px;height: 120px;background-image: url(&quot;assets/img/Voc_botos.jpg&quot;);" 
+                href="nivel3.php"></a></div>
                 <div class="col-md-6 text-right">
                     <div class="btn-group" role="group"><a class="btn btn-primary" role="button" style="width: 120px;height: 120px;background-image: url(&quot;assets/img/Voc_botob.png&quot;);" href="n3A21.php"></a></div>
                 </div>

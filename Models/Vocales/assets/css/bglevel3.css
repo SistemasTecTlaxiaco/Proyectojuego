@@ -5,14 +5,35 @@ body{
     background-size: cover;
     background-color: blueviolet;  
 }
+#rv1{
+    height: 100px;
+    width: 100px;
+    margin-top: -1380%;
+    margin-left: 2000%;
+}
+#rv2{
+    height: 100px;
+    width: 100px;
+    margin-top: -1480%;
+    margin-left: 2150%;
+}
+#rv3{
+    height: 100px;
+    width: 100px;
+    margin-top: -1580%;
+    margin-left: 2300%;
+}
+#rv4{
+    height: 120px;
+    width: 120px;
+    margin-top: -1490%;
+    margin-left: 2158%;
+}
 #casita{
     height: 100px;
     width: 100px;
-    margin-top: -42%;
+    margin-top: -44%;
 }
-#lv1{
-margin-left: 20%;
-}
-#lv2{
-
+.rv{
+    width: 50px;
 }

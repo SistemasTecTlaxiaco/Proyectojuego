@@ -35,8 +35,16 @@
                 <a href="menunivel.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
                 <a href="n3A1.php"><img id="lv1" src="assets/img/z_voz1.png" alt=""></a>
                 <a href="n3A2.php"><img id="lv2" src="assets/img/z_voc2.jpg" alt=""></a>
-
-
+</div>
+</div>
+</div>
+</div>
+<div class="rv">
+<a href="1.php"><img id="rv1" src="assets/img/rv2.png" alt=""></a>
+<a href="2.php"><img id="rv2" src="assets/img/rv1.png" alt=""></a>
+<a href="3.php"><img id="rv3" src="assets/img/rv3.png" alt=""></a>
+<img id="rv4" src="assets/img/rv4.png" alt="">
+</div>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
