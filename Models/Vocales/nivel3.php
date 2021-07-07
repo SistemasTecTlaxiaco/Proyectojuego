@@ -40,7 +40,7 @@
 </div>
 </div>
 <div class="rv">
-<a href="1.php"><img id="rv1" src="assets/img/rv2.png" alt=""></a>
+<a href="letra-a-e-i/realidad.php"><img id="rv1" src="assets/img/rv2.png" alt=""></a>
 <a href="Letra-o/index.php"><img id="rv2" src="assets/img/rv1.png" alt=""></a>
 <a href="Letra-u/index.php"><img id="rv3" src="assets/img/rv3.png" alt=""></a>
 <img id="rv4" src="assets/img/rv4.png" alt="">

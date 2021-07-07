@@ -1,5 +1,5 @@
 ! DOCTYPE html >
-< html  lang = " en " >
+<html  lang = " en " >
   < cabeza >
   < estilo >
     cuerpo { color de fondo :  # 00FA9A ; }
