@@ -9,6 +9,7 @@
     <script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.1/dist/aframe-extras.min.js"></script>
   </head>
   <body>
+  <a href="../menu.php"><img id="casita" src="assets/img/casita.png" alt=""></a>
     <a-entity>
       <a-scene>
         <a-entity
